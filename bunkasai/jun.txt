@@ -1,0 +1,5 @@
+town.mp3
+explain.txt
+explain2.txt
+explain3.txt
+{"jun2”:”じゃんけんゲーム”:”1”,”jun3”:”マルバツゲーム”:”1”}

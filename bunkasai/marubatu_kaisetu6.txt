@@ -1,0 +1,6 @@
+<<switch文の続き>>
+
+この時caseにswitch文を抜けさせる働きはないため、
+caseの後ろにあるbreakがないとswitch文を抜けられません。
+(一般的に、次のcaseの前にbreak文を置く。)
+一応defaultはどこに書いても問題ありません。

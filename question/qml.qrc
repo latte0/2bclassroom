@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>wrong.qml</file>
+        <file>hazure.jpg</file>
+        <file>sentakumodel.qml</file>
+        <file>start_push.png</file>
+        <file>Home.qml</file>
+        <file>TextCar.js</file>
+    </qresource>
+</RCC>
